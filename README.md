@@ -11,10 +11,10 @@ A hands-on exploration of Unity's [XR Interaction Toolkit (XRI)](https://docs.un
 Two demo videos showing different scenes used in the project:
 
 ### Scene Demo 1
-<video src="https://github.com/behnoudshafizadeh/XR-Interaction-Toolkit-Examples_Project-for-learning-/raw/main/XR_Interaction_Toolkit.mp4" controls autoplay muted loop width="100%"></video>
+![Scene Demo 1](XR_Interaction_Toolkit.gif)
 
 ### Scene Demo 2
-<video src="https://github.com/behnoudshafizadeh/XR-Interaction-Toolkit-Examples_Project-for-learning-/raw/main/XR_Interaction_Toolkit_1.mp4" controls autoplay muted loop width="100%"></video>
+![Scene Demo 2](XR_Interaction_Toolkit_1.gif)
 
 ---
 
