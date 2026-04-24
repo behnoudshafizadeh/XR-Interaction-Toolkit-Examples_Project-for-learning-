@@ -8,25 +8,31 @@ A hands-on exploration of Unity's [XR Interaction Toolkit (XRI)](https://docs.un
 ---
 
 ## 🎮 Gameplay Demo
+Five demo videos showing different scenes used in the project:
+
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/9334bcdf-c2df-4f01-9129-c73371973026" controls width="400"></video>
+  <video src="https://github.com/user-attachments/assets/b4e4c3a4-9b35-40b6-bf13-65d83145ec7d" controls width="400"></video>
 </div>
 
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/d362d741-0b73-49a4-bb2d-863f0b86ef53" controls width="400"></video>
+</div>
 
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/e8dfbc0a-30ee-43f3-985c-ebff91c7af3e
+" controls width="400"></video>
+</div>
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/4b9cc6df-04ef-4696-a536-cc87c123c13c" controls width="400"></video>
+</div>
 
-## Demo Videos
-
-Two demo videos showing different scenes used in the project:
-
-### Scene Demo 1
-![Scene Demo 1](XR_Interaction_Toolkit.gif)
-
-### Scene Demo 2
-![Scene Demo 2](XR_Interaction_Toolkit_1.gif)
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/14180109-de07-4202-94d4-5eebe80b8788" controls width="400"></video>
+</div>
 
 ---
 
