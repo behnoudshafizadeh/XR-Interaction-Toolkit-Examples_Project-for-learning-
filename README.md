@@ -5,6 +5,18 @@ A hands-on exploration of Unity's [XR Interaction Toolkit (XRI)](https://docs.un
 > **Note:** This project is inspired by and based on the official [XR Interaction Toolkit Examples](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples) by **Unity Technologies**. The original project includes its own [LICENSE.md](XR-Interaction-Toolkit-Examples-main/LICENSE.md) (Unity Companion License) and [README.md](XR-Interaction-Toolkit-Examples-main/README.md). Please refer to those files for the original terms and documentation.
 
 ---
+---
+
+## 🎮 Gameplay Demo
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/9334bcdf-c2df-4f01-9129-c73371973026" controls width="400"></video>
+</div>
+
+
+
+
+
 
 ## Demo Videos
 
